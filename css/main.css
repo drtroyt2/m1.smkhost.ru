@@ -1,0 +1,26 @@
+.estimates{
+	text-align: right;
+	color: #fff;
+}
+.uno{
+	background: red;
+}
+.dos{
+	background: DarkRed;
+}
+.tres{
+	background: OrangeRed;
+}
+.quadro{
+	background: Teal;
+}
+.cinco{
+	background: blue;
+}
+.question{
+	font-weight: bold;
+	font-size: 20px;
+}
+.for-btn{
+	text-align: center;
+}
